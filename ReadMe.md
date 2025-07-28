@@ -1,12 +1,15 @@
 # Whoami
 
-Hi, I’m **Imad** —  
-**Software Engineer** · Runner & Algorithm Buff  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=3776AB&background=FFFFFF00&center=true&width=600&height=80&lines=Software+Engineer;Runner;Algorithm+Buff" alt="Typing Animation" />
+</p>
 
-Born in Switzerland, I spent around 4 years in Canada earning my Software Engineering bachelor’s degree, sharpening my problem‑solving mindset & meeting cool people. I’m passionate about systems architecture, cybersecurity and data engineering.  
+Hi, I’m **Imad**   
+**Software Engineer** · Runner & Algorithm Buff 
 
-Today I specialize in AI automation and lead **Alpinovas**, a website‑building agency (alpinovas.com). I also founded **Lièvre Running**, a performance apparel brand that blends textile engineering and art (lievrerunning.com). When I’m not coding or designing, you’ll find me out on a long run.  
+Born in Switzerland, I spent around 4 years in Canada earning my Software Engineering bachelor’s degree, sharpening my problem‑solving mindset & meeting cool people. I’m passionate about systems architecture, cybersecurity and data engineering.
 
+Today I specialize in AI automation and lead **Alpinovas**, a website‑building agency (alpinovas.com). I also founded **Lièvre Running**, a performance apparel brand that blends textile engineering and art (lievrerunning.com). When I’m not coding or designing, you’ll find me out on a long run.
 
 ---
 
