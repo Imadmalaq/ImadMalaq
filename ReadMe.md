@@ -1,0 +1,26 @@
+# Whoami
+
+# Hi, I'm Imad. 
+
+**Software Engineer** · Runner & Algorithm Buff 
+
+---
+
+## 🛠 My Stack
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge)](https://www.python.org/)  
+[![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=for-the-badge)](https://www.java.com/)  
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&style=for-the-badge)](https://dart.dev/)  
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&style=for-the-badge)](https://flutter.dev/)  
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&style=for-the-badge)](https://www.mysql.com/)  
+[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?logo=github&style=for-the-badge)](https://github.com/features/actions)
+
+
+## 📫 Let's Connect 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/imadmalaq)  
+[![Email](https://img.shields.io/badge/Email-c14438?logo=gmail&style=for-the-badge)](mailto:imad.malaq@gmail.com)
+
+---
+
+![🐢 Offline Dino](https://raw.githubusercontent.com/wayou/wayou.github.io/master/assets/img/dino.gif)
