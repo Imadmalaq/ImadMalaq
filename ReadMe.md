@@ -7,9 +7,9 @@
 Hi, I’m **Imad**   
 **Software Engineer** · Runner & Algorithm Buff 
 
-Born in Switzerland, I spent around 4 years in Canada earning my Software Engineering bachelor’s degree, sharpening my problem‑solving mindset & meeting cool people. I’m passionate about systems architecture, cybersecurity and data engineering.
+Born in Switzerland, I spent around 4 years in Canada earning my Software Engineering bachelor’s degree, sharpening my problem‑solving mindset & meeting cool people. I’m passionate about systems architecture, cybersecurity, data engineering and fashion. 
 
-Today I specialize in AI automation and lead **Alpinovas**, a website‑building agency (alpinovas.com). I also founded **Lièvre Running**, a performance apparel brand that blends textile engineering and art (lievrerunning.com). When I’m not coding or designing, you’ll find me out on a long run.
+When I’m not coding or designing, you’ll find me out on a long run.
 
 ---
 
